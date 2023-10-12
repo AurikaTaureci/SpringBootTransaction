@@ -1,0 +1,1 @@
+Account{id=0, nameOwner='Grigore', amount=1900.0}
